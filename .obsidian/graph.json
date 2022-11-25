@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"First Year\"",
+      "color": {
+        "a": 1,
+        "rgb": 11403239
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.486247772526536,
+  "repelStrength": 8.53490354071434,
+  "linkStrength": 0.838227318509336,
+  "linkDistance": 249,
+  "scale": 0.21014474306652153,
+  "close": true
+}

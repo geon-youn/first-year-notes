@@ -1,0 +1,24 @@
+{
+  "snippets_file": "conc : $$\\begin{array}{c}$nl$$end$$nl$\\hline$nl$\\end{array}$$\nfalse : texttt{false}\ntrue : texttt{true}\nra : Rightarrow\nla : Leftarrow\niff : Leftrightarrow\neq : equiv\nalia : ---$nl$alias: $end$$nl$---\ncb : {$end$\\}\nab : langle$end$\\rangle",
+  "snippets": [
+    "conc : $$\\begin{array}{c}$nl$$end$$nl$\\hline$nl$\\end{array}$$",
+    "false : texttt{false}",
+    "true : texttt{true}",
+    "ra : Rightarrow",
+    "la : Leftarrow",
+    "iff : Leftrightarrow",
+    "eq : equiv",
+    "alia : ---$nl$alias: $end$$nl$---",
+    "cb : {$end$\\}",
+    "ab : langle$end$\\rangle"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": false,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true,
+  "isWYSISWYG": false
+}

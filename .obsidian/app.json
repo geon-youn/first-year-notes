@@ -1,0 +1,34 @@
+{
+  "fileSortOrder": "byCreatedTime",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "defaultViewMode": "preview",
+  "vimMode": true,
+  "spellcheckDictionary": [
+    "orthonormal",
+    "iff"
+  ],
+  "showLineNumber": true,
+  "smartIndentList": true,
+  "foldIndent": false,
+  "legacyEditor": false,
+  "livePreview": false,
+  "useTab": true,
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false,
+  "spellcheckLanguages": [],
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true
+}

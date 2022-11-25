@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "a396c0167b313996",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ca04e5252dc8ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "heapsort.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b40e8ddee1b27369",
+    "type": "split",
+    "children": [
+      {
+        "id": "647ad4713013d983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ce0faaa75834be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "337b19927f7fbd5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "programmable",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.51446533203125,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7acbd1b53e8443e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2dea9f6e5163b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "649d20ab4423e379",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "heapsort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e35e832a95c38479",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4def33aa6851aab6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "heapsort.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c2ca04e5252dc8ef",
+  "lastOpenFiles": [
+    "binary heap.md",
+    "recurrence relation.md",
+    "heap.md",
+    "priority queue.md",
+    "heap property.md",
+    "bag.md",
+    "factory.md",
+    "decorator.md",
+    "object oriented principles.md",
+    "design patterns.md"
+  ]
+}

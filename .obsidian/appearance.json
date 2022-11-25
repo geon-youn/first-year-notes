@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 20,
+  "cssTheme": "Things",
+  "theme": "moonstone",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "center"
+  ],
+  "accentColor": "#ffb875",
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "baseFontSizeAction": true
+}
