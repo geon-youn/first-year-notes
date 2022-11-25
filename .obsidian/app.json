@@ -20,7 +20,7 @@
   "attachmentFolderPath": "Attachments",
   "promptDelete": false,
   "spellcheckLanguages": [],
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "strictLineBreaks": false,
   "showFrontmatter": false,
   "pdfExportSettings": {

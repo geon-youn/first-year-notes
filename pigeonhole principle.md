@@ -1,6 +1,6 @@
 ---
 alias: 
-tags: MATH_1C03 MATH_1DM3
+tags: MATH_1C03 COMPSCI_1DM3
 ---
 # The Pigeonhole Principle
 Let $X$ and $Y$ be finite [[set]]s with the [[cardinality]] of $X$ equal to $m$ and $|Y|=n$ and let $f:X\mapsto Y$ be a function.

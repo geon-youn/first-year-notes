@@ -1,6 +1,6 @@
 ---
 alias:
-tags: MATH_1C03 MATH_1DM3
+tags: MATH_1C03 COMPSCI_1DM3
 ---
 # Permutations
 Given two non-negative [[integers]] $n$ and $k$, where $n$ is the number of elements in a [[set]] and $k$ is the size of the subsets we want, we denote the **permutation of k in n** as **n "p" k** such that

@@ -11,8 +11,12 @@
             "id": "5611b0d933bf4862",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "trichotomy.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "programmable",
+                "query": "tag:#MATH_1C03",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "trichotomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "trichotomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "17ce0faaa75834be",
+  "active": "5611b0d933bf4862",
   "lastOpenFiles": [
-    "complete lattice.md",
-    "closure of relations.md",
-    "total order.md",
-    "stratified.md",
-    "total extension.md",
-    "stratified extension.md",
-    "extension.md",
-    "Untitled.md",
-    "memory.md",
-    "relation.md"
+    "universe.md",
+    "variable.md",
+    "well-order.md",
+    "well-ordering principle.md",
+    "completeness axiom.md",
+    "complex numbers.md",
+    "commutativity.md",
+    "complement.md",
+    "common notions.md",
+    "closure under addition and multiplication.md"
   ]
 }
