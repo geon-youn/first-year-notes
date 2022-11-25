@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fd18810bd545094b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trichotomy.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trichotomy.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5611b0d933bf4862",
+  "active": "fd18810bd545094b",
   "lastOpenFiles": [
+    "trichotomy.md",
     "universe.md",
     "variable.md",
     "well-order.md",
@@ -126,7 +139,6 @@
     "complex numbers.md",
     "commutativity.md",
     "complement.md",
-    "common notions.md",
-    "closure under addition and multiplication.md"
+    "common notions.md"
   ]
 }
